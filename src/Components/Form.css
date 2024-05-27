@@ -1,0 +1,69 @@
+.form-container {
+  border: 1px black solid;
+  border-radius: 5px;
+  justify-content: center;
+  width: 60%;
+  text-align: center;
+  margin-top: 40px;
+  margin-left: 20%;
+}
+.indiv {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+.form-main {
+  justify-content: center;
+  text-align: center;
+}
+label {
+  text-align: left;
+  padding: 5px;
+  font-weight: 600;
+}
+input {
+  margin: 5px;
+  margin-bottom: 0;
+  border-radius: 5px;
+}
+select {
+  margin: 10px;
+  border-radius: 5px;
+}
+.byemail {
+  text-align: left;
+  margin: 8px;
+}
+
+.comments {
+  margin-top: 0;
+  text-align: left;
+  margin: 10px;
+  margin-bottom: 0;
+}
+.comments p {
+  margin: 0;
+  margin-left: 35px;
+}
+.push {
+  text-align: left;
+  margin: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.push p {
+  margin-top: -15px;
+}
+.radiowala {
+  display: flex;
+  flex-direction: row;
+}
+
+.btn {
+  margin: 10px;
+  background-color: rgb(38, 170, 231);
+  color: white;
+  width: 20%;
+  border-radius: 10px;
+  margin-top: 30px;
+}
